@@ -1,0 +1,3 @@
+- insert:
+    - id: model-catalog
+      name: dsh-model-catalog
